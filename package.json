@@ -1,0 +1,9 @@
+{
+  "name": "natively",
+  "version": "1.0.0",
+  "description": "Natively helps you to create native Android and IOS apps using the Block programming and react-native.",
+  "main": "app",
+  "repository": "git@github.com:AnasOnGit/natively.git",
+  "author": "Anas Ikhlas",
+  "license": "MIT"
+}
